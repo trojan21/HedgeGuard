@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+ccxt
+numpy
+pandas
+matplotlib
+scipy
+python-dotenv
+requests
+loguru
